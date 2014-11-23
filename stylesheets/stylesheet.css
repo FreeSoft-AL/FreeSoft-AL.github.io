@@ -20,6 +20,15 @@
   border: none;
 }
 
+#demo {
+  width: 400px;
+  margin-left: 50px;
+}
+#demo td {
+  text-align: left;
+  padding-left: 20px;
+}
+
 .inner img {
   width: 200px;
   position: absolute;
