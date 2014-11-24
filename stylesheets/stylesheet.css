@@ -5,10 +5,6 @@
  * 2. Prevent iOS text size adjust after orientation change, without disabling
  *    user zoom.
  */
-#language-button {
-  background-color:#000000;
-  float: right;
-}
 
 #payment-options {
   width: 500px;
@@ -39,7 +35,7 @@
 #lng-button {
   position: absolute;
   right: 0;
-  top: 150px;
+  top: 200px;
   -webkit-border-radius: 5;
   -moz-border-radius: 5;
   border-radius: 5px;
